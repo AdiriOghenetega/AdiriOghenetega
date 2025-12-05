@@ -1,6 +1,6 @@
 # Hi there, I'm Adiri Oghenetega
 
-## Senior Frontend Engineer | React.js Specialist | Building Scalable Web Applications
+## Senior Full-Stack Engineer | React.js Specialist | Building Scalable Web Applications
 
 With 5+ years of experience crafting high-performance web applications, I specialize in building scalable, accessible, and user-centric solutions using modern JavaScript frameworks.
 
